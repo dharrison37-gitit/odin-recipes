@@ -14,3 +14,4 @@ In this project, I used all knowledge gained up to this point.
 - Creating **unordered and ordered lists**
 - Using Git **via the terminal and VS Code** for commits
 - Taking command of the terminal to **create and move files and directories**
+- Added styling to the pages with css file
